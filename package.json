@@ -1,0 +1,23 @@
+{
+  "name": "Minima",
+  "version": "1.0.0",
+  "description": "Minimal theme for Wordpress",
+  "scripts": {
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "production": "mix --production"
+  },
+  "author": "Joe Malott",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "laravel-mix": "^6.0.0-beta.17",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^8.1"
+  }
+}
