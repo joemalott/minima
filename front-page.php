@@ -2,7 +2,7 @@
  
 
 
-<! –– Add Tailwind CSS Stuff Here ––>
+<! –– Add Content Here ––>
 
 
 
@@ -18,7 +18,7 @@ if ( have_posts() ) {
 
 
 
-<! –– Add Tailwind CSS Stuff Here ––>
+<! –– Add Content Here ––>
 
 
 <?php get_footer(); ?>

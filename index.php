@@ -1,6 +1,6 @@
 <?php get_header(); ?>
  
-<! –– Add Tailwind CSS Stuff Here ––>
+<! –– Add Content Here ––>
 
 <?php 
 if ( have_posts() ) {
@@ -14,7 +14,7 @@ if ( have_posts() ) {
 
 
 
-<! –– Add Tailwind CSS Stuff Here ––>
+<! –– Add Content Here ––>
 
 
 <?php get_footer(); ?>
