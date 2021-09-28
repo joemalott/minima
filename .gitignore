@@ -15,3 +15,5 @@ node_modules/
 
 # Custom
 mix-manifest.json
+mix-manifest.json
+package-lock.json
